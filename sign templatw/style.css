@@ -1,0 +1,42 @@
+
+    .a{
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+        background-color: yellow;
+        display: inline-block;
+        border-radius:20px;
+        /* position: sticky; */
+
+    }
+    .a:hover{
+        transform: scale(1.2);
+    }
+    .b{
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+        background-color: blueviolet;
+        display: inline-block;
+        border-radius:20px;
+        position: sticky;
+
+    }
+    .b:hover{
+        transform: scale(1.2);
+    }
+    .c{
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+        background-color: yellow;
+        display: inline-block;
+        border-radius:20px;
+        position: sticky;
+
+    }
+    .c:hover{
+        transform: scale(1.2);
+    }
+
+</style>
